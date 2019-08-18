@@ -1,0 +1,9 @@
+[Desktop Entry]
+Categories=Application;
+Exec=/usr/bin/ponastavitev-omrezja.sh
+Icon=/opt/ponastavitev-omrezja/ikona.png
+Name=Ponastavitev omrežja
+Terminal=false
+Type=Application
+Version=1.0
+X-Deepin-Vendor=user-custom
