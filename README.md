@@ -14,4 +14,18 @@ sudo ./Setup.sh
 ```
 Potem pa se vam odpre čarovnik za namestitev (v terminalu) in samodejno namesti program.
 
+# Navodila za odstranitev
+Za odstranitev se pomaknite v mapo s datoteko za namestitev.
+
+Če ste jo odstranili jo lahko prenesete:
+```
+git clone https://github.com/dr22Alex/Ponastavitev-omrezja.git
+cd ./Ponastavitev-omrezja/
+```
+Potem pa zaženete ukaz:
+```
+sudo ./Uninstall.sh
+```
+Na koncu morate vnesti geslo za odstranitev.
+
 #### Hvala
